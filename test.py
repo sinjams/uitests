@@ -7,7 +7,7 @@ if submit:
     elif title.lower() == 'maya':
         st.write('Mouse')
     elif title.lower() == 'chickoo':
-        return('Sindhu')
+        st.write('Sindhu')
     elif title.lower() == 'mouse':
-        return('Maya')
+        st.write('Maya')
     else: st.write('Swita how could u do this to me')
